@@ -12,26 +12,26 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.email -%}
+{%- if site.social-network-links.instagram -%}
   <li class="list-inline-item">
-    <a href="mailto:{{ site.social-network-links.email }}" title="Email me">
+    <a href="https://www.instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">Email me</span>
+      <span class="sr-only">Instagram</span>
    </a>
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.calendly -%}
+{%- if site.social-network-links.reddit -%}
   <li class="list-inline-item">
-    <a href="https://calendly.com/{{ site.social-network-links.calendly }}" title="Schedule a meeting with me">
+    <a href="https://reddit.com/r/{{ site.social-network-links.reddit }}" title="Reddit">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">Schedule a meeting with me</span>
+      <span class="sr-only">Reddit</span>
    </a>
   </li>
 {%- endif -%}
@@ -47,6 +47,55 @@
    </a>
   </li>
 {%- endif -%}
+
+{%- if site.social-network-links.twitter -%}
+  <li class="list-inline-item">
+    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.email -%}
+  <li class="list-inline-item">
+    <a href="mailto:{{ site.social-network-links.email }}" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.patreon -%}
+  <li class="list-inline-item">
+    <a href="https://patreon.com/{{ site.social-network-links.patreon }}" title="Patreon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Patreon</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.calendly -%}
+  <li class="list-inline-item">
+    <a href="https://calendly.com/{{ site.social-network-links.calendly }}" title="Schedule a meeting with me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Schedule a meeting with me</span>
+   </a>
+  </li>
+{%- endif -%}
+
 
 {%- if site.social-network-links.telegram -%}
   <li class="list-inline-item">
@@ -68,30 +117,6 @@
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">GitHub</span>
-   </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.twitter -%}
-  <li class="list-inline-item">
-    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Twitter</span>
-   </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.reddit -%}
-  <li class="list-inline-item">
-    <a href="https://reddit.com/u/{{ site.social-network-links.reddit }}" title="Reddit">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Reddit</span>
    </a>
   </li>
 {%- endif -%}
@@ -144,17 +169,6 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.instagram -%}
-  <li class="list-inline-item">
-    <a href="https://www.instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Instagram</span>
-   </a>
-  </li>
-{%- endif -%}
 
 {%- if site.social-network-links.youtube -%}
   <li class="list-inline-item">
@@ -260,18 +274,6 @@
         <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Google Scholar</span>
-    </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.patreon -%}
-  <li class="list-inline-item">
-    <a href="https://patreon.com/{{ site.social-network-links.patreon }}" title="Patreon">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Patreon</span>
     </a>
   </li>
 {%- endif -%}

@@ -7,7 +7,7 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in posts limit:1 %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -67,12 +67,17 @@ layout: page
     {% endif %}
 
     <div class="post-entry">
+      <!-- Remove excerpt
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
       {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
         <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
       {% endif %}
+	  -->
+	  
+	  <!-- Show full post instead -->
+	  {{post.content}}
     </div>
     {% endunless %}
 
@@ -86,9 +91,26 @@ layout: page
     {% endif %}
 
    </article>
+   
+   <!-- Experiment to add previous comic button to home page -->
+         <ul class="pagination blog-pager">
+        {% if post.previous.url %}
+        <li class="page-item previous">
+          <a class="page-link" href="{{ post.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if post.next.url %}
+        <li class="page-item next">
+          <a class="page-link" href="{{ post.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% include comments.html %}
+  <!-- End experiment to add previous comic button to home page -->
   {% endfor %}
 </div>
 
+<!-- remove "older/newer posts" buttons
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
@@ -96,10 +118,12 @@ layout: page
     <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
+
   {% if paginator.next_page %}
   <li class="page-item next">
     <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
+-->
 {% endif %}

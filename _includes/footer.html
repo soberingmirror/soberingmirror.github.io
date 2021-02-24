@@ -15,13 +15,14 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
-
-      {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
+	  
+	  {% if site.url-pretty %}
         <span class="author-site">
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
+		&nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
+
       {% endif %}
 
       {% if site.matomo %}
@@ -32,8 +33,10 @@
       {% endif%}
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+        This site is open-source on 
+        <a href="https://github.com/soberingmirror/soberingmirror.github.io">Github</a>
+		and modified from
+		<a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
       </p>{% endunless %}
       </div>
     </div>
