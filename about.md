@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Who am I?
 ---
+
+### Who am I? 
 
 I'm you. More accurately, I'm the introspective, hyper-critical portion of your brain that you try to repress.
 
