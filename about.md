@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-### Who am I? 
+### Who are you? 
 
 I'm you. More accurately, I'm the introspective, hyper-critical portion of your brain that you try to repress.
 
-### Who are you actually?
+### Who are you really?
 
 You'll be happy to know I have a day job — I work in engineering at a company you've heard of. If you really need to know more than that, you can subscribe to the highest tier of [my Patreon](https://www.patreon.com/SoberingMirror) (you won't).
 
