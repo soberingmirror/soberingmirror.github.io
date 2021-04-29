@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The evolution of "game over""
+title: "The evolution of 'game over'"
 tags: [Gaming]
 comments: true
 ---
