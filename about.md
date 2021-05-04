@@ -13,6 +13,10 @@ The other 50% will be reinvested into growing my online presence so that one day
 
 All I ask is that you tell the various social media algorithms my posts are worth spreading (assuming you actually think they're good). You can do that by following, liking, commenting, and sharing.
 
+* [Instagram](https://www.instagram.com/soberingmirror/)
+* [Twitter](https://twitter.com/home)
+* [YouTube](https://www.youtube.com/soberingmirror)
+
 You can also subscribe to my aforementioned [Patreon page](https://www.patreon.com/SoberingMirror) or make a [one-time donation via PayPal](https://www.paypal.com/donate?hosted_button_id=H9ZZJWAQHK6U4).
 
 ### Contact
