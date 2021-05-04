@@ -3,15 +3,17 @@ layout: page
 title: About
 ---
 
-### Who are you? 
+### Mission Statement
 
-I'm you. More accurately, I'm the introspective, hyper-critical portion of your brain that you try to repress.
+I make internet content for fun. I have a job – I make a good living as an engineer at a big tech company.
 
-### Who are you really?
+Given that, I've decided that 50% of the revenue I make from Sobering Mirror (everything – ad revenue, Patreon, future merch, etc.) will be donated to St. Jude Children's Research Hospital. 
 
-You'll be happy to know I have a day job — I work in engineering at a company you've heard of. If you really need to know more than that, you can subscribe to the highest tier of [my Patreon](https://www.patreon.com/SoberingMirror) (you won't).
+The other 50% will be reinvested into growing my online presence so that one day, hopefully, this will be a meaningful gesture.
 
-If you'd like me to continue making content, please share my work (with attribution). If you feel so compelled, you can also subscribe to my aforementioned [Patreon page](https://www.patreon.com/SoberingMirror) or make a [one-time donation via PayPal](https://www.paypal.com/donate?hosted_button_id=H9ZZJWAQHK6U4).
+All I ask is that you tell the various social media algorithms my posts are worth spreading (assuming you actually think they're good). You can do that by following, liking, commenting, and sharing.
+
+You can also subscribe to my aforementioned [Patreon page](https://www.patreon.com/SoberingMirror) or make a [one-time donation via PayPal](https://www.paypal.com/donate?hosted_button_id=H9ZZJWAQHK6U4).
 
 ### Contact
 
