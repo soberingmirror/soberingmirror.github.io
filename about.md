@@ -19,7 +19,7 @@ All I ask is that you tell the various social media algorithms that my posts are
 
 ### Donations
 
-If you're feeling extra generous, you can also subscribe to my aforementioned [Patreon page](https://www.patreon.com/SoberingMirror) or make one-time donations via [PayPal / Credit Card](https://www.paypal.com/donate?hosted_button_id=H9ZZJWAQHK6U4) or [cryptocurrency](https://commerce.coinbase.com/checkout/e677fc40-ddcd-48c6-855b-1ee59ea75f7d). If you're tight on money, save it.
+If you're feeling extra generous, you can also subscribe to my aforementioned [Patreon page](https://www.patreon.com/SoberingMirror) or make a one-time donation via [PayPal / Credit Card](https://www.paypal.com/donate?hosted_button_id=H9ZZJWAQHK6U4) or [cryptocurrency](https://commerce.coinbase.com/checkout/e677fc40-ddcd-48c6-855b-1ee59ea75f7d). If you're tight on money, save it.
 
 ### Contact
 
