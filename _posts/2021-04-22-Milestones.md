@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Milestones"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compassion"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

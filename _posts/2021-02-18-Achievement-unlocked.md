@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Achievement unlocked"
-tags: [Gaming, Gym]
+tags: [Comics]
 comments: true
 ---
 

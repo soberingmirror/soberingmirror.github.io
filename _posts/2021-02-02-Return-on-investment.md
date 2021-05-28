@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Return on investment"
-tags: [Gaming, Society]
+tags: [Comics]
 comments: true
 ---
 

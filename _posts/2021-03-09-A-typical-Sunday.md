@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A typical Sunday"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

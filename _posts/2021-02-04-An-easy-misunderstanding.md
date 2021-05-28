@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An easy misunderstanding"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

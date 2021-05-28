@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moment of clarity"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

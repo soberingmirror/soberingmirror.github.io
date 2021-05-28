@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The secret to happiness"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

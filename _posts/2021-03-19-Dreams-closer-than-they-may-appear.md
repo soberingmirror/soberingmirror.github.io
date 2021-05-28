@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dreams closer than they may appear"
-tags: [Gym]
+tags: [Comics]
 comments: true
 ---
 

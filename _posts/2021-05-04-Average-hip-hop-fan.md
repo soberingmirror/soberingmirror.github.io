@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A day in the life of the average hip hop fan"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

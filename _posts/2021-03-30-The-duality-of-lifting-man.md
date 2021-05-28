@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The duality of (lifting) man"
-tags: [Gym]
+tags: [Comics]
 comments: true
 ---
 

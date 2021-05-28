@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why YouTube is actually an ethical company"
-tags: [Society]
+tags: [Videos]
 comments: true
 ---
 

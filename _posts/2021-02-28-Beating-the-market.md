@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beating the market"
-tags: [Society, Business]
+tags: [Comics]
 comments: true
 ---
 

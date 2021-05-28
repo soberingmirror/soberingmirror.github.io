@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Escape plan"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

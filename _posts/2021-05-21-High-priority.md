@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High-priority"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

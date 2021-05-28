@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New console"
-tags: [Gaming]
+tags: [Comics]
 comments: true
 ---
 

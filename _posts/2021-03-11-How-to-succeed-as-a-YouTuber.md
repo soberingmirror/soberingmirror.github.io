@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to succeed as a YouTuber"
-tags: [Society]
+tags: [Videos]
 comments: true
 ---
 

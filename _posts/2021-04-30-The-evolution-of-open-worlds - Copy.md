@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The evolution of 'open' worlds"
-tags: [Gaming]
+tags: [Comics]
 comments: true
 ---
 

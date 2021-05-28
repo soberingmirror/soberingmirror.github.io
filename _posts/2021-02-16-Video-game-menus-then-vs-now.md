@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video game menus then vs. now"
-tags: [Gaming]
+tags: [Comics]
 comments: true
 ---
 

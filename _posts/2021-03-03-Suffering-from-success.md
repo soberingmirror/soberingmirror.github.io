@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suffering from success"
-tags: [Society, Business]
+tags: [Comics]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adulthood"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

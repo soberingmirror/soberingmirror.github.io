@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second-hand embarrassment"
-tags: [Sports]
+tags: [Comics]
 comments: true
 ---
 

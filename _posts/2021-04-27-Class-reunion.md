@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Class reunion"
-tags: [Society]
+tags: [Comics]
 comments: true
 ---
 

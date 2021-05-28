@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hardcore gaming"
-tags: [Gaming]
+tags: [Comics]
 comments: true
 ---
 
