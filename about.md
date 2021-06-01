@@ -17,7 +17,7 @@ All I ask is that you tell the various social media algorithms that my posts are
 * [Twitter](https://twitter.com/soberingmirror)
 * [YouTube](https://www.youtube.com/soberingmirror)
 
-**Note**: I work for a company that matches the charitable contributions of its employees. This means that each time I donate, my company donates an equal amount. In other words – although I donate 50% of my revenue, St. Jude receives the equivalent of 100% of my revenue.
+**Note:** I work for a company that matches the charitable contributions of its employees. This means that each time I donate, my company donates an equal amount. In other words – although I donate 50% of my revenue, St. Jude receives the equivalent of 100% of my revenue.
 
 ### Donations
 
