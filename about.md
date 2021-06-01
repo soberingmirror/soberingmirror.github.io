@@ -7,7 +7,7 @@ title: About
 
 I create internet content for fun. I have a job – I make a good living as an engineer at a big tech company.
 
-Given that, I've decided that **50% of the profits I make from Sobering Mirror (everything – ad revenue, Patreon, donations, future merch, etc.) will be donated to St. Jude Children's Research Hospital.**
+Given that, I've decided that **50% of the profits I make from Sobering Mirror (everything – ad revenue, Patreon, individual contributions, future merch, etc.) will be donated to St. Jude Children's Research Hospital.**
 
 The other 50% will be reinvested into growing my online presence so that one day, hopefully, this will be a meaningful gesture.
 
@@ -16,6 +16,8 @@ All I ask is that you tell the various social media algorithms that my posts are
 * [Instagram](https://www.instagram.com/soberingmirror/)
 * [Twitter](https://twitter.com/soberingmirror)
 * [YouTube](https://www.youtube.com/soberingmirror)
+
+**Note**: I work for a company that matches the charitable contributions of its employees. This means that each time I donate, my company donates an equal amount. In other words – although I donate 50% of my revenue, St. Jude receives the equivalent of 100% of my revenue.
 
 ### Donations
 
