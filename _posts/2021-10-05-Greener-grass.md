@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Average kinesiology graduate"
+title: "Greener grass"
 tags: [Comics]
 comments: true
 ---
 
 
-!["Average kinesiology graduate"](/comics/47.png){: .mx-auto.d-block :}
-
-This was a collaboration with [@immortalbarbell](https://www.instagram.com/immortalbarbell/).
+!["Greener grass"](/comics/48.png){: .mx-auto.d-block :}
 
 Check out the secret bonus panel on [Patreon](https://www.patreon.com/SoberingMirror)!
